@@ -46,3 +46,7 @@ body {
     text-align: center;
     margin-top: 20px;
 }
+
+.sec2content {
+    display: inline-flex;
+}
