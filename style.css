@@ -6,4 +6,8 @@ body {
 
 .header {
     text-align: center;
+    background-color: grey;
+    margin: 3px;
+    padding: 7.5px;
+    color: white;
 }
