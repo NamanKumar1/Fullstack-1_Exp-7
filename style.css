@@ -11,7 +11,12 @@ body {
 .header {
     text-align: center;
     background-color: grey;
-    margin: 3px;
+    margin: 4px;
     padding: 7.5px;
     color: white;
+}
+
+.banner {
+    text-align: center;
+    background-color: skyblue;
 }
