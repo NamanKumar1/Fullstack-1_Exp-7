@@ -70,6 +70,7 @@ body {
     width: 473px;
     height: 40px;
     text-align: center;
+    color: white;
 }
 
 #article3 {
@@ -91,4 +92,14 @@ body {
 .section4 {
     text-align: center;
     margin-top: 140px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 5px;
+    background-color: palevioletred;
+    color: white;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 7.5px;
 }
