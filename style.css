@@ -19,4 +19,8 @@ body {
 .banner {
     text-align: center;
     background-color: skyblue;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 250px;
 }
