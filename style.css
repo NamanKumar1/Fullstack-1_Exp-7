@@ -75,3 +75,15 @@ body {
 #article3 {
     margin-bottom: 4px;
 }
+
+.section3 {
+    text-align: center;
+}
+
+.square {
+    background-color: red;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 100px;
+    display: inline;
+}
