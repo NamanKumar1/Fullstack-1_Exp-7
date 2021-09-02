@@ -43,10 +43,19 @@ body {
 }
 
 .section2 {
-    text-align: center;
     margin-top: 20px;
 }
 
 .sec2content {
     display: inline-flex;
+}
+
+.main {
+    background-color: grey;
+    color: white;
+    width: 625px;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-align: center;
+    margin: 4px;
 }
