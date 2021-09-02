@@ -1,5 +1,6 @@
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
 }
 
 body {
@@ -28,4 +29,15 @@ body {
 .section1 {
     margin: 5px;
     text-align: center;
+}
+
+.circle {
+    background-color: gold;
+    padding: 75px;
+    margin-top: 30px;
+    left: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 50%;
+    display: inline-flex;
 }
