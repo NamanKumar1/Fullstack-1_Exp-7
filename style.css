@@ -1,3 +1,7 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 body {
     border: solid lightslategrey 2px;
     margin-left: 50px;
